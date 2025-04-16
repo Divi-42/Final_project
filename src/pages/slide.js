@@ -65,7 +65,7 @@ const SlideImages = () => {
           <img
             src={img1}
             alt="Left Slide"
-            style={{ width: '650px', height:'700px', display: 'block' }}
+            style={{ width: '500px', height:'400px', display: 'block' }}
           />
           <div className="card-caption">
           You don’t need to be a data scientist — just upload your CSV.
@@ -80,7 +80,7 @@ const SlideImages = () => {
           <img
             src={img2}
             alt="Right Slide"
-            style={{ width: '650px', height:'700px' ,display: 'block' }}
+            style={{ width: '500px', height:'400px' ,display: 'block' }}
           />
         </div>
       </div>
